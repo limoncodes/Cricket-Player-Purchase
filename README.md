@@ -9,7 +9,13 @@ React, TypeScript, and Tailwind CSS.
 
 ## 📸 Screenshot
 
-![Cricket Player Purchase](YOUR_SCREENSHOT_URL)
+![Cricket Player Purchase]
+<img width="1914" height="910" alt="Screenshot_11" src="https://github.com/user-attachments/assets/5cbdbb56-e80c-4a7d-a509-bb04dbb22b18" />
+
+<img width="1899" height="905" alt="Screenshot_12" src="https://github.com/user-attachments/assets/a7f285b1-d497-4de6-9729-e5bd51672dae" />
+
+<img width="1904" height="913" alt="Screenshot_13" src="https://github.com/user-attachments/assets/c450545c-166f-413c-ac0a-dcd8938dcd65" />
+
 
 ## 🛠️ Technologies Used
 
