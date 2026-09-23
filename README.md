@@ -22,7 +22,7 @@ React, TypeScript, and Tailwind CSS.
 - React
 - TypeScript
 - Tailwind CSS
-- Vite
+
 
 ## ✨ Features
 
@@ -40,7 +40,6 @@ React, TypeScript, and Tailwind CSS.
 - React DOM
 - TypeScript
 - Tailwind CSS
-- Vite
 - React Icons
 - Other project dependencies
 
